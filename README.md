@@ -19,3 +19,7 @@ $ curl localhost:8000/
 $ curl localhost:8000/health
 {"pg":[1]}
 ```
+
+# Data Ingestion
+
+Let's work off of this [document](https://judicious-dinner-b5d.notion.site/Product-API-6535057372a843df93a898b013c79f9f).
