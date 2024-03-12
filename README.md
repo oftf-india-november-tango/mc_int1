@@ -2,8 +2,12 @@
 
 ## Quickstart
 
-With a Postgres DB running on port `localhost:5432`... with username/password/database of "postgres"
+Bring up postgres:
+```bash
+$ docker compose up -d
+```
 
+Install dependencies and bring up a FastAPI server
 ```bash
 $ python -m venv venv
 $ source ./venv/bin/activate
