@@ -24,6 +24,6 @@ $ curl localhost:8000/health
 {"pg":[1]}
 ```
 
-# Data Ingestion
+# API
 
-Let's work off of this [document](https://judicious-dinner-b5d.notion.site/Product-API-6535057372a843df93a898b013c79f9f).
+Let's work off of this [document](https://judicious-dinner-b5d.notion.site/Data-to-API-1181df5314338020b796ed5f5f10ae9d).
